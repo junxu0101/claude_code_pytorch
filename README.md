@@ -61,6 +61,15 @@ The model training includes comprehensive tracking of:
 
 ### Results Summary
 
+**Final Test Results:**
+- **Test Loss**: 1.6568
+- **Test Accuracy**: 56.51%
+- **Test Precision**: 55.93%
+- **Test Recall**: 56.51%
+- **Test evaluation time**: 49.95s
+- **Test inference speed**: 506.4 samples/s
+- **Total project time**: 47.11 minutes
+
 *Note: Complete training results and performance metrics are tracked during the 20-epoch training process with detailed per-epoch reporting.*
 
 ## Features
