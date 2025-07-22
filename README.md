@@ -1,6 +1,6 @@
 # PyTorch Machine Learning Models Created by [Claude Code](https://claude.ai/code)
 
-The README.md file (this file) was also created by [Claude Code](https://claude.ai/code).
+The README.md file (this file) was also created by [Claude Code](https://claude.ai/code) (tweaked a little by the author of course).
 
 ## Model [1]: Food-101 Classification with PyTorch CNN
 A deep learning project implementing a ResNet-based Convolutional Neural Network for classifying food images from the Food-101 dataset. This project demonstrates state-of-the-art computer vision techniques using PyTorch.
